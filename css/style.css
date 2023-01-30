@@ -42,3 +42,22 @@ h1{
     font-weight: 200;
     font-size: smaller;
 }
+
+table{
+    text-align: left;
+}
+th{
+    width: 25%;
+}
+#longer-th{
+    width: 50%;
+}
+
+#blue-tr{
+    background-color: #4ea0ff;
+    color: white;
+}
+
+.light-blue-tr{
+    background-color: lightblue;
+}
