@@ -38,6 +38,11 @@ h1{
     color: gray;
 }
 
+#images{
+    position: relative;
+    margin-top:30px;
+}
+
 #image-description{
     font-weight: 200;
     font-size: smaller;
