@@ -10,3 +10,35 @@
     height: 50px;
     padding-top: 40px;
 }
+
+#heading{
+    position: relative;
+    margin-top: -40px;
+}
+
+h1{
+    font-size: 45px;
+    text-align: left;
+}
+
+.subtitle{
+    position: relative;
+    color: gray;
+    margin-top: -40px;
+}
+
+#author{
+    color: #4ea0ff;
+}
+
+#date{
+    position: relative;
+    margin-top: -15px;
+    font-size:10px ;
+    color: gray;
+}
+
+#image-description{
+    font-weight: 200;
+    font-size: smaller;
+}
