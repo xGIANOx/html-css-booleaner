@@ -66,3 +66,26 @@ th{
 .light-blue-tr{
     background-color: lightblue;
 }
+
+#monitor-image{
+    width: 312px;
+    height: 208px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.image-title{
+    position: relative;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+
+}
+#graph-image{
+    width: 312px;
+    height: 208px;
+    background-image: url(../img/graph.jpg);
+    margin-top: 15px;
+}
+
